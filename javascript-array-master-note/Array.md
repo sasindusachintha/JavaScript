@@ -1,0 +1,19 @@
+## 📸 Application Screenshots
+
+### ➕ push()
+![push](ss/push.jpg)
+
+### ➖ pop()
+![pop](ss/pop.jpg)
+
+### ⬅️ unshift()
+![unshift](ss/unshift.jpg)
+
+### ➡️ shift()
+![shift](ss/shift.jpg)
+
+### ✂️ splice() – Remove at Index
+![splice-remove](ss/splice1.jpg)
+
+### ✨ splice() – Insert at Index
+![splice-insert](screenshots/splice2.jpg)
