@@ -16,4 +16,5 @@
 ![splice-remove](ss/splice1.jpg)
 
 ### ✨ splice() – Insert at Index
-![splice-insert](screenshots/splice2.jpg)
+![splice-insert](ss/splice2.jpg)
+
