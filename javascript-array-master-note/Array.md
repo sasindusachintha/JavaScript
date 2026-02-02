@@ -46,16 +46,16 @@
 ![findindex](ss/findindex.jpg)
 
 ### 🔚 findLast()
-![findlast](ss/findlast.jpg)
+![findLast](ss/findLast.jpg)
 
 ### 🔚 findLastIndex()
-![findlastindex](ss/findlastindex.jpg)
+![findLAstindex](ss/findLAstindex.jpg)
 
 ### ✅ includes()
 ![includes](ss/includes.jpg)
 
 ### 📌 indexOf()
-![indexof](ss/indexof.jpg)
+![indexOf](ss/indexOf.jpg)
 
 ### 📌 lastIndexOf()
 ![lastIndexof](ss/lastIndexof.jpg)
@@ -66,6 +66,7 @@
 
 ### ### 🔍 filter()
 ![filter](ss/filter.jpg)
+
 
 
 
