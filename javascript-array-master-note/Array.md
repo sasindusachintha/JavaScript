@@ -1,4 +1,8 @@
-## 📸 Application Screenshots
+## 📸 Screenshots
+
+---
+
+## Add/ Remove
 
 ### ➕ push()
 ![push](ss/push.jpg)
@@ -16,4 +20,25 @@
 ![splice-remove](ss/splice1.jpg)
 
 ### ✨ splice() – Insert at Index
-![splice-insert](screenshots/splice2.jpg)
+![splice-insert](ss/splice2.jpg)
+
+---
+
+## Iteration/ Transform
+
+### 🔄 map()
+![map](ss/map.jpg)
+
+### 🔁 forEach()
+![foreach](ss/foreach.jpg)
+
+### 🔁 flatMap()
+![flatMap](ss/flatMap.jpg)
+
+---
+
+
+
+
+
+
