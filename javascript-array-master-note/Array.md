@@ -22,5 +22,21 @@
 ### ✨ splice() – Insert at Index
 ![splice-insert](ss/splice2.jpg)
 
+---
+
+## Iteration/ Transform
+
+### 🔄 map()
+![map](screenshots/map.png)
+
+### 🔁 forEach()
+![foreach](screenshots/foreach.png)
+
+### 🔁 flatMap()
+![flatMap](screenshots/flatMap.png)
+
+---
+
+
 
 
