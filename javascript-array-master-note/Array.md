@@ -64,8 +64,19 @@
 
 ## Filter/ Reduce
 
-### ### 🔍 filter()
+### 🔍 filter()
 ![filter](ss/filter.jpg)
+
+### ✅ reduce()
+![reduce](ss/reduce.jpg)
+
+### ✅ reduceRight()
+![reduceRight](ss/reduceRight.jpg)
+
+---
+
+### Boolean Checks
+
 
 
 
