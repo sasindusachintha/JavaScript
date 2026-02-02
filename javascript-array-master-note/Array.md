@@ -27,15 +27,16 @@
 ## Iteration/ Transform
 
 ### 🔄 map()
-![map](screenshots/map.png)
+![map](ss/map.png)
 
 ### 🔁 forEach()
-![foreach](screenshots/foreach.png)
+![foreach](ss/foreach.png)
 
 ### 🔁 flatMap()
-![flatMap](screenshots/flatMap.png)
+![flatMap](ss/flatMap.png)
 
 ---
+
 
 
 
