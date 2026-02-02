@@ -30,12 +30,13 @@
 ![map](ss/map.jpg)
 
 ### 🔁 forEach()
-![foreach](ss/foreach.jpg)
+![forEach](ss/forEach.jpg)
 
 ### 🔁 flatMap()
 ![flatMap](ss/flatMap.jpg)
 
 ---
+
 
 
 
