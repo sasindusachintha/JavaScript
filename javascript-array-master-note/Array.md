@@ -37,6 +37,38 @@
 
 ---
 
+## Search/ Find
+
+### 🎯 find()
+![find](ss/find.jpg)
+
+### 📍 findIndex()
+![findindex](ss/findindex.jpg)
+
+### 🔚 findLast()
+![findlast](ss/findlast.jpg)
+
+### 🔚 findLastIndex()
+![findlastindex](ss/findlastindex.jpg)
+
+### ✅ includes()
+![includes](ss/includes.jpg)
+
+### 📌 indexOf()
+![indexof](ss/indexof.jpg)
+
+### 📌 lastIndexOf()
+![lastIndexof](ss/lastIndexof.jpg)
+
+---
+
+## Filter/ Reduce
+
+### ### 🔍 filter()
+![filter](ss/filter.jpg)
+
+
+
 
 
 
