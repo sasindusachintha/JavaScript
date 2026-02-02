@@ -1,4 +1,6 @@
-## 📸 Application Screenshots
+## 📸 Screenshots
+
+--- ## Add/ Remove
 
 ### ➕ push()
 ![push](ss/push.jpg)
@@ -17,4 +19,5 @@
 
 ### ✨ splice() – Insert at Index
 ![splice-insert](ss/splice2.jpg)
+
 
