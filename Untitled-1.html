@@ -1,6 +1,10 @@
 <script>
 let arr = [1,2,3,4,5];
+let arr2 = [6,7,8,9];
 
-console.log(arr.flatMap(x => [x,x*2]));
-  
+let combined = [...arr, ...arr2];
+
+console.log(combined);
+
+
 </script>
