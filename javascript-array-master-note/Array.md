@@ -94,10 +94,10 @@
 ![reverse](ss/reverse.jpg)
 
 ### 🆕 toSorted()
-![tosorted](ss/tosorted.jpg)
+![tosorted](ss/toSorted.jpg)
 
 ### 🆕 toReversed()
-![toreversed](ss/toreversed.jpg)
+![toreversed](ss/toReversed.jpg)
 
 ---
 
@@ -110,10 +110,10 @@
 ![with](ss/with.jpg)
 
 ### 🆕 toSplice()
-![tosplice](ss/tosplice.jpg)
+![toSpliced](ss/toSpliced.jpg)
 
 ### 🆕 toSpliced()
-![tospliced2](ss/tospliced2.jpg)
+![toSplicedR2](ss/toSplicedR.jpg)
 
 ---
 
@@ -126,7 +126,7 @@
 ![join](ss/join.jpg)
 
 ### 🔤 toString()
-![tostring](ss/tostring.jpg)
+![toString](ss/toString.jpg)
 
 ---
 
@@ -136,13 +136,13 @@
 ![flat](ss/flat.jpg)
 
 ### ❓ Array.isArray()
-![isarray](ss/isarray.jpg)
+![isArray](ss/isArray.jpg)
 
 ### 🖌 fill()
 ![fill](ss/fill.jpg)
 
 ### 📋 copyWithin()
-![copywithin](ss/copywithin.jpg)
+![copyWithin](ss/copyWithin.jpg)
 
 ---
 
@@ -179,6 +179,7 @@
 ---
 ✅ Done
 ---
+
 
 
 
