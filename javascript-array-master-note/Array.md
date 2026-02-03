@@ -58,7 +58,7 @@
 ![indexOf](ss/indexOf.jpg)
 
 ### 📌 lastIndexOf()
-![lastIndexof](ss/lastIndexof.jpg)
+![lastIndexOf](ss/lastIndexOf.jpg)
 
 ---
 
@@ -76,6 +76,7 @@
 ---
 
 ### Boolean Checks
+
 
 
 
