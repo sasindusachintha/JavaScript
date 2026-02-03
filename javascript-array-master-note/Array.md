@@ -77,10 +77,108 @@
 
 ### Boolean Checks
 
+### 🔘 some()
+![some](ss/some.jpg)
 
+### ✅ every()
+![every](ss/every.jpg)
 
+---
 
+## Order/ Sort
 
+### 🔃 sort()
+![sort](ss/sort.jpg)
+
+### 🔄 reverse()
+![reverse](ss/reverse.jpg)
+
+### 🆕 toSorted()
+![tosorted](ss/tosorted.jpg)
+
+### 🆕 toReversed()
+![toreversed](ss/toreversed.jpg)
+
+---
+
+## Slice/ Copy/ Replace
+
+### ✂️ slice()
+![slice](ss/slice.jpg)
+
+### ✨ with()
+![with](ss/with.jpg)
+
+### 🆕 toSplice()
+![tosplice](ss/tosplice.jpg)
+
+### 🆕 toSpliced()
+![tospliced2](ss/tospliced2.jpg)
+
+---
+
+## Combine/ Convert
+
+### ➕ concat()
+![concat](ss/concat.jpg)
+
+### 🔗 join()
+![join](ss/join.jpg)
+
+### 🔤 toString()
+![tostring](ss/tostring.jpg)
+
+---
+
+## Structure Helpers
+
+### 📏 flat()
+![flat](ss/flat.jpg)
+
+### ❓ Array.isArray()
+![isarray](ss/isarray.jpg)
+
+### 🖌 fill()
+![fill](ss/fill.jpg)
+
+### 📋 copyWithin()
+![copywithin](ss/copywithin.jpg)
+
+---
+
+## Info
+
+### 📐 length
+![length](ss/length.jpg)
+
+### 📑 entries()
+![entries](ss/entries.jpg)
+
+### 🔑 keys()
+![keys](ss/keys.jpg)
+
+### 💎 values()
+![values](ss/values.jpg)
+
+---
+
+## Creation
+
+### 📥 Array.from()
+![from](ss/from.jpg)
+
+### 📤 Array.of()
+![of](ss/of.jpg)
+
+---
+## Spread
+
+### 🔀 Combined [...arr1, ...arr2]
+![combined](ss/combined.jpg)
+
+---
+✅ Done
+---
 
 
 
