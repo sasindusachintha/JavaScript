@@ -1,5 +1,4 @@
-<html>
-    <head>
+
         <script>
           class Queue{
             constructor(){
@@ -45,5 +44,3 @@
             console.log(queue.size());
           
         </script>
-    </head>
-</html>
