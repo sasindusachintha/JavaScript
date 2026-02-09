@@ -1,0 +1,129 @@
+<html>
+    <body>
+<script>
+let display = "0" ;
+let justCalculated = false;
+
+function pressNumber(num){
+    if(display === "0" || justCalculated){
+        display = num ;
+        justCalculated = false ;
+    }else{
+        display += num ;
+    }
+}
+
+function pressOperator(op){
+    let lastChar = display[display.length - 1];
+
+    if("+-*/".includes(lastChar)){
+        display = display.slice(0, -1) + op;
+    }else{
+        display += op ;
+    }
+    
+    justCalculated = false;
+}
+
+function pressEqual(){
+    let lastChar = display[display.length - 1];
+
+    if("+-*/".includes(lastChar)) return;
+
+    display = eval(display);
+
+    justCalculated = true ;
+}
+
+function pressClear(){
+    display = "0" ;
+}
+
+const displayElement = document.createElement("div");
+displayElement.style.width = "20px";
+displayElement.style.height = "40px";
+displayElement.style.border = "1px solid black";
+displayElement.style.fontSize = "20px";
+displayElement.style.padding = "5px";
+displayElement.style.textAlign = "right";
+displayElement.textContent = display;
+displayElement.style.marginBottom = "10px";
+
+document.body.appendChild(displayElement);
+
+const buttonContainer = document.createElement("div");
+buttonContainer.style.display = "grid";
+buttonContainer.style.gridTemplateColumns = "repeat(4, 50px)";
+buttonContainer.style.gap = "5px";
+buttonContainer.style.marginTop = "10px" ;
+
+document.body.appendChild(buttonContainer);
+
+function updateDisplay(){
+    displayElement.textContent = display ;
+}
+
+
+
+
+["0","1","2","3","4","5","6","7","8","9"].forEach(num => {
+    const btn = document.createElement("button");
+    btn.textContent = num;
+
+    btn.onclick = () => {
+        pressNumber(num); 
+        updateDisplay();
+    };
+    
+    btn.style.width = "50px";
+    btn.style.height = "50px";
+    btn.style.fontSize = "18px";
+
+    buttonContainer.appendChild(btn);
+});
+
+["+", "-", "*", "/"].forEach(op => {
+    const btn = document.createElement("button");
+    btn.textContent = op ;
+
+    btn.onclick = () => {
+        pressOperator(op);
+        updateDisplay();
+    };
+
+    btn.style.width = "50px";
+    btn.style.height = "50px";
+    btn.style.fontSize = "18px";
+    buttonContainer.appendChild(btn);
+});
+
+const equalBtn = document.createElement("button");
+equalBtn.textContent = "=" ;
+
+equalBtn.onclick = () => {
+    pressEqual();
+    updateDisplay();
+};
+equalBtn.style.width = "50px";
+equalBtn.style.height = "50px";
+equalBtn.style.fontSize = "18px";
+buttonContainer.appendChild(equalBtn);
+
+const clearBtn = document.createElement("button");
+clearBtn.textContent = "C";
+
+clearBtn.onclick = () => {
+    pressClear();
+    updateDisplay();
+};
+
+clearBtn.style.width = "50px";
+clearBtn.style.height = "50px";
+clearBtn.style.fontSize = "18px";
+buttonContainer.appendChild(clearBtn);
+
+
+
+</script>
+</body>
+</html>
