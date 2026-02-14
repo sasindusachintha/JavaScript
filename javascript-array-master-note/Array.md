@@ -9,13 +9,13 @@ Useful for beginners and interview preparation.
 ### ➕ push()   :- Adds one or more elements to the end of an array.
 ![push](ss/push.jpg)
 
-### ➖ pop()
+### ➖ pop()   :- Removes the last element from an array.
 ![pop](ss/pop.jpg)
 
-### ⬅️ unshift()
+### ⬅️ unshift() :- Adds elements to the beginning of an array.
 ![unshift](ss/unshift.jpg)
 
-### ➡️ shift()
+### ➡️ shift() :- Removes the first element of an array.
 ![shift](ss/shift.jpg)
 
 ### ✂️ splice() – Remove at Index
@@ -28,10 +28,12 @@ Useful for beginners and interview preparation.
 
 ## Iteration/ Transform
 
-### 🔄 map()
+### 🔄 map() :- Creates a new array by transforming each element using a function.
+✅ Used when you want to modify every value.
 ![map](ss/map.jpg)
 
-### 🔁 forEach()
+### 🔁 forEach()  :- Executes a function for each element.
+⚠️ Does NOT return a new array.
 ![forEach](ss/forEach.jpg)
 
 ### 🔁 flatMap()
@@ -181,6 +183,7 @@ Useful for beginners and interview preparation.
 ---
 ✅ Done
 ---
+
 
 
 
