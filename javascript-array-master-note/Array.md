@@ -1,10 +1,12 @@
-## 📸 Screenshots
+# JavaScript Array Master Notes
 
+This guide covers JavaScript array methods with examples and outputs.
+Useful for beginners and interview preparation.
 ---
 
 ## Add/ Remove
 
-### ➕ push()
+### ➕ push()    Adds one or more elements to the end of an array.
 ![push](ss/push.jpg)
 
 ### ➖ pop()
@@ -179,6 +181,7 @@
 ---
 ✅ Done
 ---
+
 
 
 
