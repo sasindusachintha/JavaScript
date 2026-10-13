@@ -9,7 +9,7 @@ A collection of JavaScript exercises and practical examples covering programming
 
 - To-Do List application.
 - JavaScript practice exercises.
-- Basic programming concepts
+- Basic programming concepts.
 
 ### 2. JavaScript Array Master Notes
 Study notes and examples covering JavaScript array methods and operations, with commented explanations to help understand how they work.
