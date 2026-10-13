@@ -8,7 +8,7 @@ A collection of my **JavaScript learning exercises, programming practice, data s
 A collection of JavaScript exercises and practical examples covering programming fundamentals and small applications.
 
 - To-Do List application.
-- JavaScript practice exercises
+- JavaScript practice exercises.
 - Basic programming concepts
 
 ### 2. JavaScript Array Master Notes
