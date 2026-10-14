@@ -71,7 +71,7 @@ No complex setup is required for the current examples.
 ## 👨‍💻 Author
 
 **Sasindu Sachintha Bandara**  
-Software Engineering Undergraduate
+Software Engineering Undergraduate.
 
 - GitHub: [@sasindusachintha](https://github.com/sasindusachintha)
 - Repository: [JavaScript Practice & Data Structures](https://github.com/sasindusachintha/JavaScript)
