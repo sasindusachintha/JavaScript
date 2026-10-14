@@ -29,7 +29,7 @@ Standalone HTML files demonstrating JavaScript concepts and data structure imple
 ## 🛠️ Technologies Used
 
 - **JavaScript** — programming logic and implementations.
-- **HTML5** — structure for browser-based examples
+- **HTML5** — structure for browser-based examples.
 - **CSS3** — styling where applicable
 
 ## 🚀 Getting Started
