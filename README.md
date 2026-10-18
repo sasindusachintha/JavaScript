@@ -15,7 +15,7 @@ A collection of JavaScript exercises and practical examples covering programming
 Study notes and examples covering JavaScript array methods and operations, with commented explanations to help understand how they work.
 
 ### 3. Data Structures Implementations
-Practical implementations of fundamental data structures using JavaScript.
+Practical implementations of fundamental data structures using JavaScript
 
 | Data Structure | Description |
 |---|---|
