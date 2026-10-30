@@ -1,6 +1,6 @@
 # JavaScript Practice & Data Structures
 
-A collection of my **JavaScript learning exercises, programming practice, data structures implementations, and beginner-friendly projects**. This repository documents my journey in strengthening JavaScript fundamentals and problem-solving skills as a Software Engineering undergraduate
+A collection of my **JavaScript learning exercises, programming practice, data structures implementations, and beginner-friendly projects**. This repository documents my journey in strengthening JavaScript fundamentals and problem-solving skills as a Software Engineering undergraduate.
 
 ## 📚 Contents
 
